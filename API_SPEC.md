@@ -1,6 +1,6 @@
 # Alumni Connect - API Specification
 
-## 🔌 Base URL
+## 🔌 Base URL 
 ```
 http://localhost:5000/api
 ```
